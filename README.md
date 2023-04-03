@@ -6,11 +6,11 @@ Student Management System Written by Java with MySQL
 这篇文章是Java语言得课程设计大作业记录。 
 - 项目由**Java**和**Mysql**实现。 
 - 本片文章包含完整的**源程序代码**和**结构图**。 
-- 实现对学生信息的**增**、**删**、**改**、**查**功能。
-- 欢迎大家关注我的公众号【kingdeguo】
+- 实现对学生信息的**增**、**删**、**改**、**查**功能
 
 项目地址: https://github.com/KingdeGuo/StudentManagementSystem
-
+<br>
+欢迎大家关注我的公众号【kingdeguo】
 ## 项目截图展示
 
 - 软件初始界面
