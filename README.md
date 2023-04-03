@@ -2,7 +2,7 @@
 Student Management System Written by Java with MySQL
 
 # 欢迎大家关注我的公众号【kingdeguo】
-![公众号二维码.jpeg](公众号二维码.jpeg)
+![https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg](https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 # 项目目标
 这篇文章是Java语言得课程设计大作业记录。 
 - 项目由**Java**和**Mysql**实现。 
