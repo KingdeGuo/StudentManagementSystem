@@ -693,3 +693,7 @@ public class StuAddDiag extends JDialog implements ActionListener {
 - 物理架构
 
   ![https://img-blog.csdnimg.cn/20200922230630623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg5NTY2Ng==,size_16,color_FFFFFF,t_70#pic_center](https://img-blog.csdnimg.cn/20200922230630623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg5NTY2Ng==,size_16,color_FFFFFF,t_70#pic_center)
+
+# 赞赏作者
+ ![https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png](https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+ ![https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png](https://github.com/KingdeGuo/myPictureBed/blob/main/img_upload2023/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
